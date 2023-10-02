@@ -8,7 +8,7 @@ import java.awt.event.ActionEvent;
 import javax.swing.*;
 
 
-class Pharma_bill implements ActionListener,Mouseistener
+class Pharma_bill implements ActionListener
 {
     JFrame jf = new JFrame("Lal Labs");
     JPanel jp = new JPanel();
